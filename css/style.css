@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(218, 236, 242);
+}
+button{
+    margin-top: 35px;
+     
+}
+ 
+.top{
+   
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    
+}
+.buttom{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    margin-top: 110px;
+
+
+}
+p{
+    padding-left: 150px;
+    margin-left: 100px;
+}
+h3{
+    margin-left: 250px;
+    
+}
+.mission1,.mission2,.mission3,.mission4,#image1,#image2,#image3,#image4{
+    display: none;
+}
+ .btn{
+    background-color:  white;
+ }
+ 
